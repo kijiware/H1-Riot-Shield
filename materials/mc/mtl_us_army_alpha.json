@@ -1,0 +1,54 @@
+{
+    "name": "mc/mtl_us_army_alpha",
+    "techniqueSet->name": "mc_l_sm_ndw_b0c0n0sd0_cltrans",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 256,
+    "cameraRegion": 3,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.20000000298023224,
+                1.0,
+                2.5,
+                2.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~us_army_alpha_spc-rgb&us_arm~8def6c18",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "us_army_alpha_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "us_army_alpha_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ],
+    "subMaterials": null
+}

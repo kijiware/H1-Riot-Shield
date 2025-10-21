@@ -1,0 +1,54 @@
+{
+    "name": "mc/gfx_impact_riotshield_vm01",
+    "techniqueSet->name": "mc_l_sm_ndw_b0c0n0sd0_cltrans",
+    "gameFlags": 17,
+    "sortKey": 36,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 3,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.026000000536441803,
+                0.07000000029802322,
+                0.061000000685453415,
+                2.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~climbing_crack_grow_1_spc-rg~eb1d6633",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "climbing_crack_grow_1_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "climbing_crack_grow_1_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ],
+    "subMaterials": null
+}

@@ -1,0 +1,206 @@
+{
+    "aliasName": "melee_riotshield_impact_plr",
+    "count": 1,
+    "head": [
+        {
+            "aliasName": "melee_riotshield_impact_plr",
+            "secondaryAliasName": null,
+            "chainAliasName": null,
+            "subtitle": null,
+            "squelchName": null,
+            "soundfile": {
+                "type": 1,
+                "exists": false,
+                "name": "null"
+            },
+            "flags": {
+                "looping": 0,
+                "isMaster": 0,
+                "isSlave": 0,
+                "fullDryLevel": 0,
+                "noWetLevel": 0,
+                "randomLooping": 0,
+                "spatializedRangeCheck": 0,
+                "spatializedIs3D": 0,
+                "unk9": 1,
+                "inheritPitch": 0,
+                "inheritVolume": 0,
+                "useContextList": 0,
+                "useNoPanning2D": 0,
+                "useOldPanning": 0,
+                "useNoPanning3D": 0,
+                "type": 1,
+                "unused": 0
+            },
+            "variationType": 4,
+            "priority": 1,
+            "dspBus": "default",
+            "volMod": "default",
+            "volMin": 0.35359999537467957,
+            "volMax": 0.35359999537467957,
+            "pitchMin": 1.0,
+            "pitchMax": 1.0,
+            "distMin": 120.0,
+            "distMax": 600.0,
+            "velocityMin": 0.0,
+            "probability": 1.0,
+            "sequence": 1,
+            "startDelay": 0,
+            "masterPriority": 0,
+            "masterPercentage": 0.0,
+            "slavePercentage": 1.0,
+            "playbackPercentage": 100,
+            "lfePercentage": 0.0,
+            "centerPercentage": 0.0,
+            "polyCount": 1,
+            "polyGlobalCount": 174,
+            "polyEntityType": 0,
+            "polyGlobalType": 0,
+            "polyClass": 0,
+            "playCount": 0,
+            "unk": 0,
+            "envelopMin": 0.0,
+            "envelopMax": 0.0,
+            "wetMixOverride": 0.0,
+            "focusPercentage": 1.0,
+            "smartpanDistance2d": 0.0,
+            "smartpanDistance3d": 0.0,
+            "smartpanAttenuation3d": 1.0,
+            "minSmartpan2dContribution": 0.0,
+            "stereo3DAngle": 0,
+            "stereo3DStart": 0.0,
+            "stereo3DEnd": 0.0,
+            "threshold": 0.5011872053146362,
+            "lockedLoopTime": 0,
+            "sndContext": null,
+            "volumeFalloffCurve": "$default",
+            "lpfCurve": "$default",
+            "reverbSendCurve": "$default",
+            "speakerMap": {
+                "channelMaps": [
+                    {
+                        "speakerCount": 2,
+                        "speakers": [
+                            {
+                                "levels0": 0.5,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 0
+                            },
+                            {
+                                "levels0": 0.5,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 1
+                            }
+                        ]
+                    },
+                    {
+                        "speakerCount": 6,
+                        "speakers": [
+                            {
+                                "levels0": 0.5,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 0
+                            },
+                            {
+                                "levels0": 0.5,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 1
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 2
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 3
+                            },
+                            {
+                                "levels0": 0.5,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 4
+                            },
+                            {
+                                "levels0": 0.5,
+                                "levels1": 0.0,
+                                "numLevels": 1,
+                                "speaker": 5
+                            }
+                        ]
+                    },
+                    {
+                        "speakerCount": 2,
+                        "speakers": [
+                            {
+                                "levels0": 1.0,
+                                "levels1": 0.0,
+                                "numLevels": 2,
+                                "speaker": 0
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 1.0,
+                                "numLevels": 2,
+                                "speaker": 1
+                            }
+                        ]
+                    },
+                    {
+                        "speakerCount": 6,
+                        "speakers": [
+                            {
+                                "levels0": 1.0,
+                                "levels1": 0.0,
+                                "numLevels": 2,
+                                "speaker": 0
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 1.0,
+                                "numLevels": 2,
+                                "speaker": 1
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 0.0,
+                                "numLevels": 2,
+                                "speaker": 2
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 0.0,
+                                "numLevels": 2,
+                                "speaker": 3
+                            },
+                            {
+                                "levels0": 1.0,
+                                "levels1": 0.0,
+                                "numLevels": 2,
+                                "speaker": 4
+                            },
+                            {
+                                "levels0": 0.0,
+                                "levels1": 1.0,
+                                "numLevels": 2,
+                                "speaker": 5
+                            }
+                        ]
+                    }
+                ],
+                "isDefault": true,
+                "name": "",
+                "orientation": 0
+            },
+            "allowDoppler": 0,
+            "dopplerPreset": null
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "gfx_glow_org_z10_eye20",
+    "techniqueSet->name": "effect_zf_add_nofog_eo_ndw",
+    "gameFlags": 0,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "eyeOffsetPar",
+            "nameHash": 135446697,
+            "literal": [
+                20.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.10000000149011612,
+                10.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "glow_org",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ],
+    "subMaterials": null
+}

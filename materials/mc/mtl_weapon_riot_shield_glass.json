@@ -1,0 +1,54 @@
+{
+    "name": "mc/mtl_weapon_riot_shield_glass",
+    "techniqueSet->name": "m_l_sm_ndw_b0c0n0sd0p0_cltrans",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 8388608,
+    "cameraRegion": 3,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.12999999523162842,
+                1.2999999523162842,
+                2.299999952316284,
+                1.5384615659713745
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~weapon_riot_shield_spc-rgb&w~c7e30464",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "weapon_riot_shield_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "weapon_riot_shield_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ],
+    "subMaterials": null
+}

@@ -1,0 +1,54 @@
+{
+    "name": "mc/mtl_us_army_metal_gps_sleeve",
+    "techniqueSet->name": "mc_l_sm_r0c0n0sd0p0_nfwpf",
+    "gameFlags": 80,
+    "sortKey": 2,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 4096,
+    "cameraRegion": 0,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                1.0,
+                2.0,
+                3.0,
+                3.076923131942749
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~us_army_sleeve_gps_spc-rgb&u~71231169",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "us_army_sleeve_gps_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "us_army_sleeve_gps_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ],
+    "subMaterials": null
+}
