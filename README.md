@@ -9,7 +9,7 @@ Adds the Riot Shield from IW5/Call of Duty: Modern Warfare 3 (2011) to the Call 
 
 ## Installation
 
-- Install the mod by dropping the folder in your h1-mod game folder
+- Install the mod by dropping the folder from the latest release in your h1-mod game folder
 
 ## Screenshots
 
