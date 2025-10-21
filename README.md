@@ -13,7 +13,9 @@ Adds the Riot Shield from IW5/Call of Duty: Modern Warfare 3 (2011) to the Call 
 
 ## Screenshots
 
-todo
+<p align="center">
+    <img src="https://i.imgur.com/I4hYCFh.png" height="700" width="500">
+</p>
 
 ## Known Issues
 
