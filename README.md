@@ -15,6 +15,10 @@ Adds the Riot Shield from IW5/Call of Duty: Modern Warfare 3 (2011) to the Call 
 
 todo
 
+## Known Issues
+
+- I'm pretty sure there's a lot of unnecessary files
+
 ## Credits
 
 - [x64-zt](https://github.com/Joelrau/x64-zt/) - x64 ZoneTool
